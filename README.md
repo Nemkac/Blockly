@@ -1,2 +1,1 @@
-# Blockly
-A secure and user-friendly crypto wallet provider
+![Blockly Banner](./Banner.png)
